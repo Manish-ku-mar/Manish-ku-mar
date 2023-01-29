@@ -1,7 +1,8 @@
 
 </p>
 
-![https://media.tenor.com/f9zQeKW05D0AAAAd/blue-lock-anime.gif]
+![blue-lock-2](https://user-images.githubusercontent.com/92529138/215312913-5bc6994f-bb7b-4627-a1cd-3544c038c710.gif)
+
 
 ### 🤵 About Me:
 - 🏦 I'm currently working on TikTok clone using Flutter and Firebase 
