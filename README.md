@@ -1,3 +1,7 @@
+
+![luffy-one](https://user-images.githubusercontent.com/92529138/227711331-1d0e90ff-1035-452f-8d69-8a203af875e0.gif)
+
+
 # 💫 About Me:
 🏦 I'm currently working on a TikTok clone using Flutter and Firebase <br>🤔 I use daily .dart, .yaml, .gradle<br>🌱 I’m currently learning Flutter and velocityX<br>💬 Talk to me about games and technology<br>😄 Pronouns: He/Him<br>👯 We can connect on >>>>><br>⚡ Fun fact: je connais un peu le japonais
 
