@@ -1,64 +1,24 @@
-
-</p>
-
-![blue-lock-2](https://user-images.githubusercontent.com/92529138/215312913-5bc6994f-bb7b-4627-a1cd-3544c038c710.gif)
+# 💫 About Me:
+🏦 I'm currently working on a TikTok clone using Flutter and Firebase <br>🤔 I use daily .dart, .yaml, .gradle<br>🌱 I’m currently learning Flutter and velocityX<br>💬 Talk to me about games and technology<br>😄 Pronouns: He/Him<br>👯 We can connect on >>>>><br>⚡ Fun fact: je connais un peu le japonais
 
 
-### 🤵 About Me:
-- 🏦 I'm currently working on TikTok clone using Flutter and Firebase 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.dart```,``` .yaml```, ```.gradle```
-- 🌱 I’m currently learning Flutter and velocityX
-- 💬 Talk to me about games and technology
-- 😄 Pronouns: He/Him
-- 👯 We can connect on >>>>>
-- ⚡ Fun fact: je connais un peu le japonais
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manish-kumar-73b029164/) 
 
-<p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="45" height="45"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="IPYNB" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="MAVEN" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="HEROKU" width="35" height="35"/> 
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-</p>
+# 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=manish-ku-mar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=manish-ku-mar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-ku-mar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-```text
-🌞 Morning    5 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
-🌆 Daytime    3 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
-🌃 Evening    1 commits    █████████████░░░░░░░░░░░░   53.09% 
-🌙 Night      2 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-```
-📅 **I'm Most Productive on Sunday** 
+---
+[![](https://visitcount.itsvg.in/api?id=manish-ku-mar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-```text
-Monday       0 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
-Tuesday      0 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
-Wednesday    0 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
-Thursday     0 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-Friday       1 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
-Saturday     2 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-Sunday       1 commits     ███████░░░░░░░░░░░░░░░░░░   30.95%
-
-```
-
-
-
-<!--END_SECTION:waka-->
-
-
-
-Last Edited on: 26/11/2020
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
